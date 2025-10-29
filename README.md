@@ -1,6 +1,6 @@
 ## 🌸 hi there!
 i’m monia - a data analyst exploring where data meets storytelling.
-i find structure, logic, and meaning in raw information, turning it into something clear and useful.
+<br>i find structure, logic, and meaning in raw information, turning it into something clear and useful.
 
 currently transitioning from **hospitality to data analytics and ai**.  
 
