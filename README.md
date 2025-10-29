@@ -8,7 +8,7 @@ currently transitioning from **hospitality to data analytics and ai**.
 
 ### what i’m working on  
 - building portfolio projects that turn data into **practical insights**  
-- learning **machine learning & gen ai** to enhance analytics and automation  
+- learning **ml & gen ai** to enhance analytics and automation  
 - strengthening skills in **python, sql, and bi tools** for clean, efficient data workflows  
 
 ### tech stack  
