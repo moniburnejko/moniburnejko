@@ -25,7 +25,8 @@ currently transitioning from **hospitality to data analytics and ai**.
 ### featured projects  
 - [**stock analysis tool**](https://github.com/moniburnejko/stock-analysis-tool) - automated data extraction, technical indicators, and visualization  
 - [**fitness analytics etl & bi**](https://github.com/moniburnejko/fitness-analytics-etl-bi) - personal metrics visualization and trend analysis with python  
-- [**e-commerce etl & dq**](https://github.com/moniburnejko/ecommerce-etl-dq) - business performance insights using power query + looker studio  
+- [**e-commerce etl & dq**](https://github.com/moniburnejko/ecommerce-etl-dq) - business performance insights using power query + looker studio
+- [**ai-news-agent**](https://github.com/moniburnejko/ai-news-agent) - **in development**
 
 *(find all projects in my pinned repositories below)*  
 
