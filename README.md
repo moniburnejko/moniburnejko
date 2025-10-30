@@ -28,8 +28,6 @@ currently transitioning from **hospitality to data analytics and ai**.
 - [**e-commerce etl & dq**](https://github.com/moniburnejko/ecommerce-etl-dq) - business performance insights using power query + looker studio
 - [**ai-news-agent**](https://github.com/moniburnejko/ai-news-agent) - **in development**
 
-*(find all projects in my pinned repositories below)*  
-
 ### about me  
 👀 curious mind • 🌊 ocean lover • 🎮 fortnite strategist  
 
