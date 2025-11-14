@@ -23,10 +23,10 @@ currently transitioning from **hospitality to data analytics and ai**.
 **other:** etl workflows • data visualization • automation • business insights  
 
 ### featured projects  
-- [**gaming sessions sql data analysis**](https://github.com/moniburnejko/gaming-sessions-sql) - end-to-end sql + python project generating synthetic gameplay data with faker, modeling it in postgreSQL, and analyzing player behavior, monetization, and retention with visual insights built in matplotlib.
+- [**gaming sessions sql data analysis**](https://github.com/moniburnejko/gaming-sessions) - end-to-end sql + python project generating synthetic gameplay data with faker, modeling it in postgreSQL, and analyzing player behavior, monetization, and retention with visual insights built in matplotlib.
 - [**ai news agent**](https://github.com/moniburnejko/ai-news-agent) - automated agent that curates, summarizes, and organizes ai news directly into notion.
 - [**stock analysis tool**](https://github.com/moniburnejko/stock-analysis-tool) - python workflow for stock data extraction, indicators, and visualization.
-- [**fitness analytics etl & bi**](https://github.com/moniburnejko/fitness-analytics-etl-bi) - power query pipeline unifying fitness data for looker studio dashboards.
+- [**fitness analytics etl & bi**](https://github.com/moniburnejko/fitness-analytics) - power query pipeline unifying fitness data for looker studio dashboards.
 - [**e-commerce etl & dq**](https://github.com/moniburnejko/ecommerce-etl-dq) - power query framework cleaning and standardizing sales data for kpi reporting.
 
 ### about me  
