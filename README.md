@@ -1,15 +1,14 @@
 ## 🌸 hi there!
-i’m monia - a data analyst exploring where data meets storytelling.
-<br>i find structure, logic, and meaning in raw information, turning it into something clear and useful.
+i’m monia - a data engineer who enjoys turning messy data into clear, well-structured pipelines.
+<br>i like working close to the data: understanding it, shaping it, and making it useful.
 
-currently transitioning from **hospitality to data analytics and ai**.  
-
-🤝 i'm open to **junior roles and collaborative projects** that challenge my skills and spark curiosity.  
+🤝 open to collaborative projects that challenge my skills and spark curiosity.  
 
 ### what i’m working on  
-- building portfolio projects that turn data into **practical insights**  
-- learning **ml & gen ai** to enhance analytics and automation  
-- strengthening skills in **python, sql, and bi tools** for clean, efficient data workflows  
+- building and improving **etl / elt pipelines**
+- getting better at **sql**, **python**, and **data modeling**
+- learning how modern data stacks work in practice
+- exploring **ml & gen ai** as tool that support data work
 
 ### tech stack  
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
@@ -20,7 +19,7 @@ currently transitioning from **hospitality to data analytics and ai**.
 ![Jupyter](https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=jupyter&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
 
-**other:** etl workflows • data visualization • automation • business insights  
+**other:** etl/elt • data modeling • data quality • automation • analytics  
 
 ### featured projects  
 - [**gaming sessions sql data analysis**](https://github.com/moniburnejko/gaming-sessions) - end-to-end sql + python project generating synthetic gameplay data with faker, modeling it in postgreSQL, and analyzing player behavior, monetization, and retention with visual insights built in matplotlib.
@@ -32,12 +31,12 @@ currently transitioning from **hospitality to data analytics and ai**.
 ### about me  
 👀 curious mind • 🌊 ocean lover • 🎮 fortnite strategist  
 
-i’m fascinated by how data reveals patterns and drives better decisions.  
-with a background in hospitality, i bring a **human perspective to data** - combining logic, empathy, and storytelling.  
+i like turning complexity into structure.
+from raw inputs to clear datasets, i enjoy the process of making data easier to trust and use. 
 
-now focused on **analytics, automation, and ai**, i enjoy projects that connect **business insight with technical creativity**.  
+with a background in hospitality, i bring a people-first mindset to data engineering.
 
-**open to collaboration and new challenges in data and ai**  
+currently focused on growing as a **data enginer**, with a strong inerest in **cloud-based data platforms** and **ai-powered data workflows**.
 
 ### let’s connect  
 [![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monika-burnejko-9301a1357/) [![kaggle](https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/monikaburnejko) [![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/monikaburnejko/Data-Analytics-Portfolio-2761bac67ca9807298aee038976f0085) [![email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moniburnejko@gmail.com)
