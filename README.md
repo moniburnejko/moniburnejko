@@ -24,13 +24,6 @@ i’m monia - a data engineer who enjoys turning messy data into clear, well-str
 *etl / elt pipelines • data modeling • data quality • analytics • automation*  
 *tools: excel, power query, looker studio, jupyter, pycharm, github*
 
-### learning
-![Docker](https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white)
-![Apache Airflow](https://img.shields.io/badge/Airflow-000000?style=for-the-badge&logo=apacheairflow&logoColor=white)
-![dbt](https://img.shields.io/badge/dbt-000000?style=for-the-badge&logo=dbt&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-000000?style=for-the-badge&logo=microsoftazure&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-000000?style=for-the-badge&logo=apachespark&logoColor=white)
-
 ---
 
 ### featured projects
