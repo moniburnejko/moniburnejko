@@ -22,19 +22,7 @@ i’m monia - a data engineer who enjoys turning messy data into clear, well-str
 ![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
 
 *etl / elt pipelines • data modeling • data quality • analytics • automation*  
-*tools: excel, power query, looker studio, jupyter, pycharm, github*
-
----
-
-### featured projects
-- [**gaming sessions sql data analysis**](https://github.com/moniburnejko/gaming-sessions)  
-  end-to-end sql + python project: synthetic data generation (faker), postgresql modeling, and analysis of player behavior, monetization, and retention with matplotlib visualizations.
-
-- [**ai news agent**](https://github.com/moniburnejko/ai-news-agent)  
-  automated agent that curates, summarizes, and organizes ai-related news directly into notion.
-
-- [**stock analysis tool**](https://github.com/moniburnejko/stock-analysis-tool)  
-  python-based workflow for financial data extraction, indicators, and visualization.
+*tools: vscode, github*
 
 ---
 
