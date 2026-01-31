@@ -36,12 +36,6 @@ i’m monia - a data engineer who enjoys turning messy data into clear, well-str
 - [**stock analysis tool**](https://github.com/moniburnejko/stock-analysis-tool)  
   python-based workflow for financial data extraction, indicators, and visualization.
 
-- [**fitness analytics etl & bi**](https://github.com/moniburnejko/fitness-analytics)  
-  power query etl pipeline unifying fitness data for looker studio dashboards.
-
-- [**e-commerce etl & dq**](https://github.com/moniburnejko/ecommerce-etl-dq)  
-  data cleaning, standardization, and quality checks for sales kpi reporting.
-
 ---
 
 ### about me
