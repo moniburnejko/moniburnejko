@@ -1,45 +1,27 @@
 ## 🌸 hi there!
 
-i’m monia - a data engineer who enjoys turning messy data into clear, well-structured pipelines.  
-<br>i like working close to the data: understanding it, shaping it, and making it useful.
-
-🤝 open to collaborative projects that challenge my skills and spark curiosity.
+i’m monia, a data engineer on a mission to build clean, efficient pipelines while exploring the world of ai engineering. i love creating systems where data isn't just stored, but actually works for us. ✨
 
 ---
 
-### what i’m working on
-- building and improving **etl / elt pipelines**
-- strengthening skills in **sql**, **python**, and **data modeling**
-- learning how modern **data stacks** work in practice
-- exploring **ml & gen ai** as tools that support data work
+#### 🎀 what i'm building & learning
+- **cloud base**: working with snowflake and expanding into the aws ecosystem.
+- **infrastructure & logic**: using terraform for setup and currently diving into dbt for smart transformations.
+- **ai path**: experimenting with ai agents and exploring snowflake cortex.
+- **core tools**: writing clean python and sql for data modeling and automation.
+- **the goal**: focusing every day on growing into a full-scale ai engineer.
 
 ---
 
-### tech stack
-![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white)
-
-*etl / elt pipelines • data modeling • data quality • analytics • automation*  
-*tools: vscode, github*
+#### 🌊 more about me
+- **ocean lover**: i have a deep curiosity for marine life research and the deep sea (especially whales!).
+- **fortnite strategist**: i enjoy the fast-paced decision-making and consistency of gaming.
+- **audhd brain**: interested in the mechanics of attention, motivation, and building support systems.
+- **details matter**: i have a natural eye for spotting inconsistencies and improving quality.
 
 ---
 
-### about me
-👀 curious mind • 🌊 ocean lover • 🎮 fortnite strategist  
-
-i enjoy turning complexity into structure.  
-from raw inputs to clear datasets, i like making data easier to trust and use.
-
-with a background in hospitality, i bring a people-first mindset to data engineering.
-
-currently focused on growing as a **data engineer**, with a strong interest in **cloud-based data platforms** and **ai-powered data workflows**.
-
----
-
-### let’s connect
-[![linkedin](https://img.shields.io/badge/linkedin-000000?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/monika-burnejko-9301a1357)
-[![kaggle](https://img.shields.io/badge/kaggle-000000?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/monikaburnejko)
-[![portfolio](https://img.shields.io/badge/portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.notion.so/monikaburnejko/Data-Analytics-Portfolio-2761bac67ca9807298aee038976f0085)
-[![email](https://img.shields.io/badge/email-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:moniburnejko@gmail.com)
+#### 💌 let’s connect!
+[![email](https://img.shields.io/badge/email-FFB6C1?style=for-the-badge&logo=gmail&logoColor=424B54)](mailto:moniburnejko@gmail.com)
+[![linkedin](https://img.shields.io/badge/linkedin-FFB6C1?style=for-the-badge&logo=linkedin&logoColor=424B54)](https://www.linkedin.com/in/monika-burnejko-9301a1357)
+[![kaggle](https://img.shields.io/badge/kaggle-FFB6C1?style=for-the-badge&logo=kaggle&logoColor=424B54e)](https://www.kaggle.com/monikaburnejko)
